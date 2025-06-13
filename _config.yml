@@ -23,7 +23,7 @@ baidu_site_verification  : #code-ZxFK3f4pfb
 author:
   name             : "凌阅微"
   avatar           : "images/profile.jpeg"
-  bio              : [English](https://yuewei-ling.github.io/)
+  bio              : #[English](https://yuewei-ling.github.io/)
   location         : "Stanford, CA"
   employer         :
   pubmed           :
