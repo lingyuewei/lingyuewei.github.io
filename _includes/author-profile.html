@@ -10,20 +10,7 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}
-      {% comment %}
-        First turn the Markdown into HTML, capture it in a variable,
-        then strip out the unwanted attributes before you print it.
-      {% endcomment %}
-      {% capture bio_html %}
-        {{ author.bio | markdownify }}
-      {% endcapture %}
-      {% assign bio_html = bio_html
-           | replace: 'target="_blank"', ''
-           | replace: 'rel="noopener noreferrer"', ''
-      %}
-      <p class="author__bio">{{ bio_html }}</p>
-    {% endif %}
+    {% if author.bio %}<p class="author__bio">{{ author.bio | markdownify}}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
