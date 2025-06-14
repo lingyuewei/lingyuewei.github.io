@@ -1,13 +1,13 @@
-# 🎓Education
+# 🎓教育经历
 
-- **Stanford University**
-  - Ph.D. in Management Science and Engineering (MS&E), 09/2023-06/2028 (Expected)
-  - Master of Science in Epidemiology and Clinical Research (Epi & CR), 04/2024-03/2026 (Expected)
-- **Sichuan University – Pittsburgh Institute (SCUPI)**
-  - Bachelor of Engineering in Industrial Engineering (IE), 09/2019-06/2023
+- **斯坦福大学**
+  - 管理科学与工程，博士，09/2023-至今
+  - 流行病学与临床研究，硕士，04/2024-至今
+- **四川大学匹兹堡学院**
+  - 工业工程，本科，09/2019-06/2023
 
-## Training
+## 培训经历
 
-- **Asian-Pacific Network (APN) for Global Change Research**, 09/2020-06/2023
-- **Sichuan University–The Hong Kong Polytechnic University Institute for Disaster Management and Reconstruction (IDMR)**
-  - International Disaster Reduction and Emergency Management Innovation Class, 09/2020-06/2023 
+- **亚太全球变化研究网络**，09/2020-06/2023
+- **四川大学–香港理工大学灾后重建与管理学院**
+  - 国际减灾与应急管理创新班，09/2020-06/2023 
