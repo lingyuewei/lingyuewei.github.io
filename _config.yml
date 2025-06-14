@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "凌阅微 (Yuewei Ling)"
+title                    : "凌阅微"
 description              : "PhD Candidate in Management Science and Engineering @Stanford"
 repository               : "lingyuewei/lingyuewei.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,7 +23,7 @@ baidu_site_verification  : #code-ZxFK3f4pfb
 author:
   name             : "凌阅微"
   avatar           : "images/profile.jpeg"
-  bio              : [English](https://yuewei-ling.github.io/)
+  bio              : "[English/英文](https://yuewei-ling.github.io/)"
   location         : "Stanford, CA"
   employer         :
   pubmed           :
