@@ -38,11 +38,11 @@ Guo Z, Jing X, **Ling Y<sup>*</sup>**, Yang Y, Jing N, Yuan R, Liu Y
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese Journal of Health Policy</div><img src='../../images/CN_Rehab.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国卫生政策研究</div><img src='../../images/CN_Rehab.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Research on the construction of a value adjustor for the inpatient rehabilitation services based on the principle of value-based health care**](http://journal.healthpolicy.cn/html/20240307.htm) | in Chinese | 2024<br/>
-Wang X, Li J, Wei X, Liu S, Li J, Li Y, **Ling Y**, Lu D, Chen J
+[**以价值为导向的住院康复服务价值调节因子构建研究**](http://journal.healthpolicy.cn/html/20240307.htm) | 2024<br/>
+王萱萱, 励建安, 魏小雷, 刘守国, 李嘉慧, 李阳, 凌阅微, 路定珍, 陈家应
 - This study constructed a value adjustor for inpatient rehabilitation services that enables comparable assessment of rehabilitation outcomes, supporting value-based payment reform under Chinese healthcare insurance system.
 </div>
 </div>
@@ -82,4 +82,4 @@ Xue Q, **Ling Y**, Tian B
 - **Ling Y<sup>#</sup>**, Shahmon E<sup>#</sup>, Brandeau ML, Yamin D. Improving imputation of missing data in time series through multi-scale modeling of periodicity: a smartwatch application. (Submitted to *Information Fusion*)
 - **Ling Y**, Hui J, Fernandez G, Xu Q, Wang H. Content analysis of policies on disaster waste management in Sichuan, China: trends and ways forward. (In Preparation for *Progress in Disaster Science*)
 
-(# for equal contribution, * for corresponding author)
+（#：共同一作；*：通讯作者）
