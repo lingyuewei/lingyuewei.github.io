@@ -50,36 +50,36 @@ Guo Z, Jing X, **Ling Y<sup>*</sup>**, Yang Y, Jing N, Yuan R, Liu Y
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PLOS ONE</div><img src='../../images/PLOS-One_CHARLS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Trajectories of cognitive decline among people over 45 years old with diabetes in China: a nationally representative longitudinal study (2011~2018)**](https://doi.org/10.1371/journal.pone.0299316) | 2024<br/>
+[**Trajectories of cognitive decline among people over 45 years old with diabetes in China: a nationally representative longitudinal study (2011~2018)**](https://doi.org/10.1371/journal.pone.0299316) | 中国45岁及以上糖尿病患者认知功能下降轨迹：一项全国代表性纵向研究 (2011~2018) | 2024<br/>
 Chen S<sup>#</sup>, **Ling Y<sup>#</sup>**, Zhou F, Qiao X, Reinhardt JD
-- This study found three cognitive trajectories among Chinese adults aged 45 and older with diabetes using data from the nationally representative China Health and Retirement Longitudinal Study (CHARLS). 
-- We employed a growth mixture model to identify cognitive trajectories, and examined baseline risk factors using weighted multinomial logistic regression.
+- 本研究利用全国代表性的中国健康与养老追踪调查 (China Health and Retirement Longitudinal Study，CHARLS)数据识别了中国45岁及以上糖尿病患者存在三种不同的认知功能下降轨迹。
+- 本研究采用增长混合模型来识别不同的认知轨迹，并应用加权多项逻辑回归分析了相关的基线风险因素。
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APN Science Bulletin</div><img src='../../images/APN-Science-Bulletin_Report.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Developing capacity for post-typhoon disaster waste management in Lautoka, Fiji, and Makati, Philippines**](https://www.apn-gcr.org/bulletin/article/developing-capacity-for-post-typhoon-disaster-waste-management-in-lautoka-fiji-and-makati-philippines/) | 2023<br/>
+[**Developing capacity for post-typhoon disaster waste management in Lautoka, Fiji, and Makati, Philippines**](https://www.apn-gcr.org/bulletin/article/developing-capacity-for-post-typhoon-disaster-waste-management-in-lautoka-fiji-and-makati-philippines/) | 斐济劳托卡与菲律宾马卡蒂的台风灾后废弃物管理能力建设 | 2023<br/>
 Fernandez G, Asari M, Uy N, Veitata S, Fayazi M, **Ling Y**, Xu Q, Wang H, Ramos LV, and Singh S
-- This work aimed to enhance the capacity of Lautoka, Fiji, and Makati, Philippines, for effective post-typhoon disaster waste management.
-- The project conducted training needs assessments, developed and delivered six targeted training modules, facilitated stakeholder workshops, and guided the participatory creation of disaster waste management contingency plans, supported by international academic collaboration.
+- 本项目旨在提升斐济劳托卡市与菲律宾马卡蒂市进行有效台风灾后废弃物管理的能力。
+- 在国际学术合作的支持下，该项目开展了培训需求评估，开发并交付了六个专项培训模块，组织了利益相关方研讨会，并指导了灾害废弃物管理应急预案的参与式制定。
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computational Intelligence and Neuroscience</div><img src='../../images/CIN_Portfolio-Optimization.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Portfolio Optimization Model for Gold and Bitcoin Based on Weighted Unidirectional Dual-Layer LSTM Model and SMA-Slope Strategy**](https://www.hindawi.com/journals/cin/2022/1869897) | 2022<br/>
+[**Portfolio Optimization Model for Gold and Bitcoin Based on Weighted Unidirectional Dual-Layer LSTM Model and SMA-Slope Strategy**](https://www.hindawi.com/journals/cin/2022/1869897) | 基于加权单向双层LSTM模型与SMA-斜率策略的黄金与比特币投资组合优化模型 | 2022<br/>
 Xue Q, **Ling Y**, Tian B
-- This study integrates a weighted unidirectional dual-layer long short-term memory (LSTM) model for daily price prediction with a particle swarm-optimized SMA-slope strategy, which enhances buy/sell signals using *k*-slope indicators, and evaluates its effectiveness through five-year trading simulations.
+- 本研究将用于日度价格预测的加权单向双层长短期记忆模型，与经粒子群算法优化的简单移动平均线-斜率策略相结合。该策略利用该策略利用*k*-斜率指标来增强买卖信号，并通过为期五年的交易模拟验证了其有效性。
 </div>
 </div>
 
-## Working Papers
+## 在投论文
 
-- **Ling Y<sup>#</sup>**, Mao Z<sup>#</sup>, Li J<sup>#</sup>, Zhang H, Zhou C, Liu W, Zhou Y, Jiang L, Li M, Zhao H, Nie S, Xu J, Geng P, Xu C, Huang J, Chen F, Zhang J, Sun H. Leveraging plasma concentration levels to optimize extracorporeal treatment in acute diquat poisoning: a multi-center retrospective cohort study. (Under Review at *Clinical Toxicology*)
-- **Ling Y<sup>#</sup>**, Shahmon E<sup>#</sup>, Brandeau ML, Yamin D. Improving imputation of missing data in time series through multi-scale modeling of periodicity: a smartwatch application. (Submitted to *Information Fusion*)
-- **Ling Y**, Hui J, Fernandez G, Xu Q, Wang H. Content analysis of policies on disaster waste management in Sichuan, China: trends and ways forward. (In Preparation for *Progress in Disaster Science*)
+- **Ling Y<sup>#</sup>**, Mao Z<sup>#</sup>, Li J<sup>#</sup>, Zhang H, Zhou C, Liu W, Zhou Y, Jiang L, Li M, Zhao H, Nie S, Xu J, Geng P, Xu C, Huang J, Chen F, Zhang J, Sun H. Leveraging plasma concentration levels to optimize extracorporeal treatment in acute diquat poisoning: a multi-center retrospective cohort study | 利用血药浓度优化急性敌草快中毒的体外净化治疗：一项多中心回顾性队列研究. (Under Review at *Clinical Toxicology*)
+- **Ling Y<sup>#</sup>**, Shahmon E<sup>#</sup>, Brandeau ML, Yamin D. Improving imputation of missing data in time series through multi-scale modeling of periodicity: a smartwatch application | 通过多尺度周期性建模改进时间序列中的缺失数据插补：以智能手表应用为例. (Submitted to *Information Fusion*)
+- **Ling Y**, Hui J, Fernandez G, Xu Q, Wang H. Content analysis of policies on disaster waste management in Sichuan, China: trends and ways forward | 中国四川省灾害废弃物管理政策的内容分析：趋势与展望. (In Preparation for *Progress in Disaster Science*)
 
 （#：共同一作；*：通讯作者）
