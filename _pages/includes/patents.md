@@ -1,4 +1,4 @@
-# 💡Patents
+# 💡专利授权
 
-- Liang Y, **Ling Y**, Li Y, Liu L, Xu N, and Jin L, inventors; Sichuan University, assignee. Air Purification System. Patent No. ZL 2021 2 2679101.4. March 8, 2022.
-- Jing X, Zhu Y, Xu L, Jing N, Sun L, **Ling Y**, Zhang R, Tu W, Zhang L, Huang X, Yan G, and An N, inventors; City University of Hefei, assignee. Construction Site Sprinkler Device Integrating Rotation and Elevation. Patent No. ZL 2022 2 0890424.X. April 18, 2022. 
+- 景向楠,朱宇,徐玲,景楠,孙磊娜,**凌阅微**,张荣荣,涂文雁,张琳,黄心雨,严国兵,安宁. 一种集旋转升降一体的建筑工地喷淋装置[P]. 安徽省：CN217015921U,2022-07-22.
+- 梁永刚,**凌阅微**,李宇杰,刘力滔,许诺,金刘超. 空气净化装置[P]. 四川省：CN215962818U,2022-03-08.
