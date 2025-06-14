@@ -3,10 +3,9 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Annals of Emergency Medicine</div><img src='../../images/AEM_DQ-SIDP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Severity indices of diquat poisoning for triage and prognosis in acute diquat poisoning: a multi-center prospective cohort study**](https://doi.org/10.1016/j.annemergmed.2025.02.022) | 2025<br/>
-急性敌草快中毒分诊与预后评估的严重程度指数：一项多中心前瞻性队列研究<br/>
+[**Severity indices of diquat poisoning for triage and prognosis in acute diquat poisoning: a multi-center prospective cohort study**](https://doi.org/10.1016/j.annemergmed.2025.02.022) | 急性敌草快中毒分诊与预后评估的严重程度指数：一项多中心前瞻性队列研究 | 2025<br/>
 **Ling Y<sup>#</sup>**, Mao Z<sup>#</sup>, Liu W<sup>#</sup>, Zhou C, Li J, Jiang L, Li M, Zhao H, Nie S, Wu C, Chen J, Bai G, Ren G, Xu J, Chen F, Zhang J, Sun H
-- 本研究开发并验证了敌草快中毒严重程度指数 (severity indices for diquat poisoning，SIDPs)，旨在帮助急诊医生根据患者自述的临床数据及实验室生物标志物，评估死亡风险，以进行分诊和28天预后判断。
+- 本研究开发并验证了敌草快中毒严重程度指数（severity indices for diquat poisoning，SIDPs），旨在帮助急诊医生根据患者自述的临床数据及实验室生物标志物，评估死亡风险，以进行分诊和28天预后判断。
 - 这项多中心队列研究共纳入204名患者。研究将通过Burota算法和逐步Cox回归筛选出的预测因子纳入Cox比例风险模型，从而构建了分别用于分诊（SIDP-T）和预后评估（SIDP-P）的严重程度指数。
 - 本研究开发了一个[**线上交互平台**](https://severityindexofdiquatpoisoning.streamlit.app/)，以便急诊医生在临床诊疗中直接应用该严重程度指数。
 </div>
@@ -15,27 +14,27 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMIR Public Health and Surveillance</div><img src='../../images/JMIR-PublicHealthAndSurveilance_Hand-Foot-And-Mouth-Disease.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Influence of the Enterovirus 71 Vaccine and the COVID-19 Pandemic on Hand, Foot, and Mouth Disease in China Based on Counterfactual Models: Observational Study**](https://publichealth.jmir.org/2024/1/e63146) | 2024<br/>
+[**Influence of the Enterovirus 71 Vaccine and the COVID-19 Pandemic on Hand, Foot, and Mouth Disease in China Based on Counterfactual Models: Observational Study**](https://publichealth.jmir.org/2024/1/e63146) | 肠道病毒71型疫苗和新冠疫情对中国手足口病流行的影响：一项基于反事实模型的观察性研究 | 2024<br/>
 Nie J, Huang T, Sun Y, Peng Z, Yang H, Zheng D, Guo F, Xu M, **Ling Y**, Zhao W, Yan X, Shui T
-- This study evaluated the long-term epidemiological trends of hand, foot, and mouth disease in Yunnan Province, China, and assess the impacts of the enterovirus 71 vaccination program and the COVID-19 pandemic using counterfactual autoregressive integrated moving average models.
+- 本研究旨在评估中国云南省手足口病的长期流行病学趋势，并采用反事实自回归积分移动平均 (autoregressive integrated moving average，ARIMA) 模型，分析了肠道病毒71型疫苗接种项目和新冠疫情所带来的影响。
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMC Pulmonary Medicine</div><img src='../../images/BMC-Pulmonary-Medicine_CABG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Impact of an enhanced recovery after surgery program integrating cardiopulmonary rehabilitation on post-operative prognosis of patients treated with CABG: protocol of the ERAS-CaRe randomized controlled trial**](https://doi.org/10.1186/s12890-024-03286-1) | 2024<br/>
+[**Impact of an enhanced recovery after surgery program integrating cardiopulmonary rehabilitation on post-operative prognosis of patients treated with CABG: protocol of the ERAS-CaRe randomized controlled trial**](https://doi.org/10.1186/s12890-024-03286-1) | 整合心肺康复的加速康复外科方案对冠状动脉旁路移植术患者术后预后的影响：ERAS-CaRe随机对照试验方案》 | 2024<br/>
 Yang Q<sup>#</sup>, Wang L<sup>#</sup>, Zhang X<sup>#</sup>, Lu P<sup>#</sup>, Pan D<sup>#</sup>, Li S#<sup>#</sup>, **Ling Y<sup>#</sup>**, Zhi X<sup>#</sup>, Xia L, Zhu Y, Chen Y, Liu C, Jin W, Reinhardt JD, Wang X, Zheng Y
-- This protocol designed a pragmatic, randomized-controlled, parallel four-arm, clinical trial to evaluate possible superiority of embedding cardiopulmonary rehabilitation in enhanced recovery after surgery (ERAS) over ERAS alone as well as to investigate effects of differential timing of cardiopulmonary rehabilitation within enhanced recovery after surgery (pre-, post-, perio-operative) on post-operative cardiopulmonary complications following coronary artery bypass grafting surgery.
+- 该研究方案设计了一项实用性、随机对照、平行四臂的临床试验，旨在评估在加速康复外科 (enhanced recovery after surgery，ERAS) 流程中整合心肺康复是否优于单纯ERAS方案，并探讨在ERAS流程中不同时机（术前、术后、围手术期）进行心肺康复对冠状动脉旁路移植术后心肺并发症的影响。
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Reports</div><img src='../../images/SR_AQI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Optimized air quality management based on air quality index prediction and air pollutants identification in representative cities in China**](https://doi.org/10.1038/s41598-024-68972-w) | 2024<br/>
+[**Optimized air quality management based on air quality index prediction and air pollutants identification in representative cities in China**](https://doi.org/10.1038/s41598-024-68972-w) | 基于空气质量指数预测与污染物识别的中国代表性城市空气质量优化管理 |2024<br/>
 Guo Z, Jing X, **Ling Y<sup>*</sup>**, Yang Y, Jing N, Yuan R, Liu Y
-- This study developed a VMD-CSA-CNN-LSTM model using variational mode decomposition (VMD), chameleon swarm algorithm (CSA), convolutional neural networks (CNN), and long short-term memory (LSTM) networks, with data from nine representative cities, and used random forest to identify major air pollutants.
+- 本研究利用来自中国九个代表性城市的数据，构建了一个VMD-CSA-CNN-LSTM模型，该模型融合了变分模态分解 (variational mode decomposition，VMD)、变色龙群算法 (chameleon swarm algorithm ，CSA)、卷积神经网络 (convolutional neural networks，CNN) 和长短期记忆 (long short-term memory，LSTM) 网络。此外，本研究还采用随机森林算法识别了主要空气污染物。
 </div>
 </div>
 
@@ -44,7 +43,7 @@ Guo Z, Jing X, **Ling Y<sup>*</sup>**, Yang Y, Jing N, Yuan R, Liu Y
 
 [**以价值为导向的住院康复服务价值调节因子构建研究**](http://journal.healthpolicy.cn/html/20240307.htm) | 2024<br/>
 王萱萱, 励建安, 魏小雷, 刘守国, 李嘉慧, 李阳, 凌阅微, 路定珍, 陈家应
-- This study constructed a value adjustor for inpatient rehabilitation services that enables comparable assessment of rehabilitation outcomes, supporting value-based payment reform under Chinese healthcare insurance system.
+- 本研究开发了一个住院康复服务的价值调节因子，旨在实现对康复治疗效果的可比性评估，从而为中国医疗保险体系下建立价值付费机制提供可行思路。
 </div>
 </div>
 
