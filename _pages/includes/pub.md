@@ -63,7 +63,7 @@ Chen S<sup>#</sup>, **Ling Y<sup>#</sup>**, Zhou F, Qiao X, Reinhardt JD
 [**Developing capacity for post-typhoon disaster waste management in Lautoka, Fiji, and Makati, Philippines**](https://www.apn-gcr.org/bulletin/article/developing-capacity-for-post-typhoon-disaster-waste-management-in-lautoka-fiji-and-makati-philippines/) | 斐济劳托卡与菲律宾马卡蒂的台风灾后废弃物管理能力建设 | 2023<br/>
 Fernandez G, Asari M, Uy N, Veitata S, Fayazi M, **Ling Y**, Xu Q, Wang H, Ramos LV, and Singh S
 - 本项目旨在提升斐济劳托卡市与菲律宾马卡蒂市进行有效台风灾后废弃物管理的能力。
-- 在国际学术合作的支持下，该项目开展了培训需求评估，开发并交付了六个专项培训模块，组织了利益相关方研讨会，并指导了灾害废弃物管理应急预案的参与式制定。
+- 在国际学术合作的支持下，本项目开展了培训需求评估，开发并交付了六个专项培训模块，组织了利益相关方研讨会，并指导了灾害废弃物管理应急预案的参与式制定。
 </div>
 </div>
 
@@ -78,8 +78,8 @@ Xue Q, **Ling Y**, Tian B
 
 ## 在投论文
 
-- **Ling Y<sup>#</sup>**, Mao Z<sup>#</sup>, Li J<sup>#</sup>, Zhang H, Zhou C, Liu W, Zhou Y, Jiang L, Li M, Zhao H, Nie S, Xu J, Geng P, Xu C, Huang J, Chen F, Zhang J, Sun H. Leveraging plasma concentration levels to optimize extracorporeal treatment in acute diquat poisoning: a multi-center retrospective cohort study | 利用血药浓度优化急性敌草快中毒的体外净化治疗：一项多中心回顾性队列研究. (Under Review at *Clinical Toxicology*)
-- **Ling Y<sup>#</sup>**, Shahmon E<sup>#</sup>, Brandeau ML, Yamin D. Improving imputation of missing data in time series through multi-scale modeling of periodicity: a smartwatch application | 通过多尺度周期性建模改进时间序列中的缺失数据插补：以智能手表应用为例. (Submitted to *Information Fusion*)
-- **Ling Y**, Hui J, Fernandez G, Xu Q, Wang H. Content analysis of policies on disaster waste management in Sichuan, China: trends and ways forward | 中国四川省灾害废弃物管理政策的内容分析：趋势与展望. (In Preparation for *Progress in Disaster Science*)
+- **Ling Y<sup>#</sup>**, Mao Z<sup>#</sup>, Li J<sup>#</sup>, Zhang H, Zhou C, Liu W, Zhou Y, Jiang L, Li M, Zhao H, Nie S, Xu J, Geng P, Xu C, Huang J, Chen F, Zhang J, Sun H. Leveraging plasma concentration levels to optimize extracorporeal treatment in acute diquat poisoning: a multi-center retrospective cohort study. 利用血药浓度优化急性敌草快中毒的体外净化治疗：一项多中心回顾性队列研究. (Under Review at *Clinical Toxicology*)
+- **Ling Y<sup>#</sup>**, Shahmon E<sup>#</sup>, Brandeau ML, Yamin D. Improving imputation of missing data in time series through multi-scale modeling of periodicity: a smartwatch application. 通过多尺度周期性建模改进时间序列中的缺失数据插补：以智能手表应用为例. (Submitted to *Information Fusion*)
+- **Ling Y**, Hui J, Fernandez G, Xu Q, Wang H. Content analysis of policies on disaster waste management in Sichuan, China: trends and ways forward. 中国四川省灾害废弃物管理政策的内容分析：趋势与展望. (In Preparation for *Progress in Disaster Science*)
 
 （#：共同一作；*：通讯作者）
