@@ -1,0 +1,13 @@
+/* ===== language switch button in sidebar ===== */
+.lang-switch {
+  display: block;
+
+  padding-top: 1.0rem;
+  margin-bottom: 1.0rem;
+
+  @include breakpoint($large) {
+    padding-top: 1.6rem;
+    margin-bottom: 1.6rem;
+  }
+}
+
