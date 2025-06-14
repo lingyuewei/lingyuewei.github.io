@@ -11,6 +11,9 @@ description              : "斯坦福大学管理科学与工程系博士在读"
 repository               : "lingyuewei/lingyuewei.github.io"
 google_scholar_stats_use_cdn : true
 
+# English Site URL
+lang_switch_url: "https://yuewei-ling.github.io/"
+
 # google analytics
 google_analytics_id      : #G-SWFCX99KQZ
 
@@ -23,7 +26,7 @@ baidu_site_verification  : #code-ZxFK3f4pfb
 author:
   name             : "凌阅微"
   avatar           : "images/profile.jpeg"
-  bio              : "[English/英文](https://yuewei-ling.github.io/)"
+  bio              : 
   location         : "Stanford, CA"
   employer         :
   pubmed           :

@@ -269,3 +269,12 @@
     display: none;
   }
 }
+
+.lang-switch {
+  display: block;
+  margin: 1.0rem 0;
+
+  @include breakpoint($large) {
+    margin: 1.6rem 0 1.6rem;
+  }
+}
