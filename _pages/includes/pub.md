@@ -1,4 +1,4 @@
-# 📚Publications
+# 📚出版物
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Annals of Emergency Medicine</div><img src='../../images/AEM_DQ-SIDP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -78,12 +78,8 @@ Xue Q, **Ling Y**, Tian B
 
 ## Working Papers
 
-- **Ling Y**, Meng Q, Zhang Y, Zhang T, Liu K, Chen S, Yuan X, Liu S, Wang S, Yang Z, Jiang H, Fu Y. Investigation on the dynamic trajectory of platelet count in healthy population from 2010 to 2021 in Sichuan Han adult. (Under Review at *Chinese Journal of Laboratory Medicine*; in Chinese)
-
 - **Ling Y<sup>#</sup>**, Mao Z<sup>#</sup>, Li J<sup>#</sup>, Zhang H, Zhou C, Liu W, Zhou Y, Jiang L, Li M, Zhao H, Nie S, Xu J, Geng P, Xu C, Huang J, Chen F, Zhang J, Sun H. Leveraging plasma concentration levels to optimize extracorporeal treatment in acute diquat poisoning: a multi-center retrospective cohort study. (Under Review at *Clinical Toxicology*)
-
 - **Ling Y<sup>#</sup>**, Shahmon E<sup>#</sup>, Brandeau ML, Yamin D. Improving imputation of missing data in time series through multi-scale modeling of periodicity: a smartwatch application. (Submitted to *Information Fusion*)
-
 - **Ling Y**, Hui J, Fernandez G, Xu Q, Wang H. Content analysis of policies on disaster waste management in Sichuan, China: trends and ways forward. (In Preparation for *Progress in Disaster Science*)
 
 (# for equal contribution, * for corresponding author)
