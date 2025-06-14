@@ -24,7 +24,7 @@ Nie J, Huang T, Sun Y, Peng Z, Yang H, Zheng D, Guo F, Xu M, **Ling Y**, Zhao W,
 <div class='paper-box-text' markdown="1">
 
 [**Impact of an enhanced recovery after surgery program integrating cardiopulmonary rehabilitation on post-operative prognosis of patients treated with CABG: protocol of the ERAS-CaRe randomized controlled trial**](https://doi.org/10.1186/s12890-024-03286-1) | 整合心肺康复的加速康复外科方案对冠状动脉旁路移植术患者术后预后的影响：ERAS-CaRe随机对照试验方案 | 2024<br/>
-Yang Q<sup>#</sup>, Wang L<sup>#</sup>, Zhang X<sup>#</sup>, Lu P<sup>#</sup>, Pan D<sup>#</sup>, Li S#<sup>#</sup>, **Ling Y<sup>#</sup>**, Zhi X<sup>#</sup>, Xia L, Zhu Y, Chen Y, Liu C, Jin W, Reinhardt JD, Wang X, Zheng Y
+Yang Q<sup>#</sup>, Wang L<sup>#</sup>, Zhang X<sup>#</sup>, Lu P<sup>#</sup>, Pan D<sup>#</sup>, Li S<sup>#</sup>, **Ling Y<sup>#</sup>**, Zhi X<sup>#</sup>, Xia L, Zhu Y, Chen Y, Liu C, Jin W, Reinhardt JD, Wang X, Zheng Y
 - 该研究方案设计了一项实用性、随机对照、平行四臂的临床试验，旨在评估在加速康复外科 (enhanced recovery after surgery，ERAS) 流程中整合心肺康复是否优于单纯ERAS方案，并探讨在ERAS流程中不同时机（术前、术后、围手术期）进行心肺康复对冠状动脉旁路移植术后心肺并发症的影响。
 </div>
 </div>
