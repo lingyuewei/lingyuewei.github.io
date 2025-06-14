@@ -4,10 +4,11 @@
 <div class='paper-box-text' markdown="1">
 
 [**Severity indices of diquat poisoning for triage and prognosis in acute diquat poisoning: a multi-center prospective cohort study**](https://doi.org/10.1016/j.annemergmed.2025.02.022) | 2025<br/>
+急性敌草快中毒分诊与预后评估的严重程度指数：一项多中心前瞻性队列研究<br/>
 **Ling Y<sup>#</sup>**, Mao Z<sup>#</sup>, Liu W<sup>#</sup>, Zhou C, Li J, Jiang L, Li M, Zhao H, Nie S, Wu C, Chen J, Bai G, Ren G, Xu J, Chen F, Zhang J, Sun H
-- This study developed and validated severity indices for diquat poisoning (SIDPs) that enable emergency physicians to assess mortality risk for triage and 28-day prognosis using self-reported clinical data and laboratory biomarkers.
-- This multicenter cohort study involved 204 patients. Predictors identified by the Burota algorithm and stepwise Cox regression were incorporated into Cox proportional hazards models to develop SIDPs, one for triage and one for prognosis (SIDP-T and SIDP-P, respectively).
-- We launched a user-friendly [**online platform**](https://severityindexofdiquatpoisoning.streamlit.app/) that enables emergency physicians to apply severity indices directly at the point of care.
+- 本研究开发并验证了敌草快中毒严重程度指数 (severity indices for diquat poisoning，SIDPs)，旨在帮助急诊医生根据患者自述的临床数据及实验室生物标志物，评估死亡风险，以进行分诊和28天预后判断。
+- 这项多中心队列研究共纳入204名患者。研究将通过Burota算法和逐步Cox回归筛选出的预测因子纳入Cox比例风险模型，从而构建了分别用于分诊（SIDP-T）和预后评估（SIDP-P）的严重程度指数。
+- 本研究开发了一个[**线上交互平台**](https://severityindexofdiquatpoisoning.streamlit.app/)，以便急诊医生在临床诊疗中直接应用该严重程度指数。
 </div>
 </div>
 
