@@ -15,4 +15,4 @@
 - Yongzhuang Top Ten Scholarships for College Students, Sichuan University (2021)
 - Dean's List, SCUPI (2021)
 - Meritorious Winner, Mathematical Contest in Modeling (2021)
-- Academic Star, SCUPI (2020) 
+- Academic Star, SCUPI (2020)
