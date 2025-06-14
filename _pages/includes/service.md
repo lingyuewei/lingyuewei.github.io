@@ -1,6 +1,6 @@
-# 🤝Service
+# 🤝学术服务
 
-## Journal Ad Hoc Reviewer
+## 期刊审稿
 - Preventive Medicine Reports
 - World Journal of Clinical Cases
 - World Journal of Methodology
@@ -12,6 +12,6 @@
 - Artificial Intelligence in Medical Imaging
 - Indonesian Journal of Electrical Engineering and Computer Science
 
-## Conference Reviewer
+## 会议审稿
 - 2025 International Conference on Machine Learning
 - 2024 Conference on Neural Information Processing Systems 
