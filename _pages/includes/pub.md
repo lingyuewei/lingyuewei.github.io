@@ -23,7 +23,7 @@ Nie J, Huang T, Sun Y, Peng Z, Yang H, Zheng D, Guo F, Xu M, **Ling Y**, Zhao W,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMC Pulmonary Medicine</div><img src='../../images/BMC-Pulmonary-Medicine_CABG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Impact of an enhanced recovery after surgery program integrating cardiopulmonary rehabilitation on post-operative prognosis of patients treated with CABG: protocol of the ERAS-CaRe randomized controlled trial**](https://doi.org/10.1186/s12890-024-03286-1) | 整合心肺康复的加速康复外科方案对冠状动脉旁路移植术患者术后预后的影响：ERAS-CaRe随机对照试验方案》 | 2024<br/>
+[**Impact of an enhanced recovery after surgery program integrating cardiopulmonary rehabilitation on post-operative prognosis of patients treated with CABG: protocol of the ERAS-CaRe randomized controlled trial**](https://doi.org/10.1186/s12890-024-03286-1) | 整合心肺康复的加速康复外科方案对冠状动脉旁路移植术患者术后预后的影响：ERAS-CaRe随机对照试验方案 | 2024<br/>
 Yang Q<sup>#</sup>, Wang L<sup>#</sup>, Zhang X<sup>#</sup>, Lu P<sup>#</sup>, Pan D<sup>#</sup>, Li S#<sup>#</sup>, **Ling Y<sup>#</sup>**, Zhi X<sup>#</sup>, Xia L, Zhu Y, Chen Y, Liu C, Jin W, Reinhardt JD, Wang X, Zheng Y
 - 该研究方案设计了一项实用性、随机对照、平行四臂的临床试验，旨在评估在加速康复外科 (enhanced recovery after surgery，ERAS) 流程中整合心肺康复是否优于单纯ERAS方案，并探讨在ERAS流程中不同时机（术前、术后、围手术期）进行心肺康复对冠状动脉旁路移植术后心肺并发症的影响。
 </div>
@@ -32,7 +32,7 @@ Yang Q<sup>#</sup>, Wang L<sup>#</sup>, Zhang X<sup>#</sup>, Lu P<sup>#</sup>, P
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Reports</div><img src='../../images/SR_AQI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Optimized air quality management based on air quality index prediction and air pollutants identification in representative cities in China**](https://doi.org/10.1038/s41598-024-68972-w) | 基于空气质量指数预测与污染物识别的中国代表性城市空气质量优化管理 |2024<br/>
+[**Optimized air quality management based on air quality index prediction and air pollutants identification in representative cities in China**](https://doi.org/10.1038/s41598-024-68972-w) | 基于空气质量指数预测与污染物识别的中国代表性城市空气质量优化管理 | 2024<br/>
 Guo Z, Jing X, **Ling Y<sup>*</sup>**, Yang Y, Jing N, Yuan R, Liu Y
 - 本研究利用来自中国九个代表性城市的数据，构建了一个VMD-CSA-CNN-LSTM模型，该模型融合了变分模态分解 (variational mode decomposition，VMD)、变色龙群算法 (chameleon swarm algorithm ，CSA)、卷积神经网络 (convolutional neural networks，CNN) 和长短期记忆 (long short-term memory，LSTM) 网络。此外，本研究还采用随机森林算法识别了主要空气污染物。
 </div>
