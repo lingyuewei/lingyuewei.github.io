@@ -1,25 +1,25 @@
 main:
-  - title: "About Me"
+  - title: "关于我"
     url: "#about-me"
 
-  - title: "Education"
+  - title: "教育背景"
     url: "#education"
 
-  - title: "Publications"
+  - title: "出版物"
     url: "#publications"
 
-  - title: "Presentations"
+  - title: "学术会议"
     url: "#presentations"
 
-  - title: "Patents"
+  - title: "专利授权"
     url: "#patents"
 
-  - title: "Teaching"
+  - title: "教学经历"
     url: "#teaching-experience"
 
-  - title: "Service"
+  - title: "学术服务"
     url: "#academic-service"
 
-  - title: "Honors & Awards"
+  - title: "荣誉奖项"
     url: "#honors-and-awards"
 
