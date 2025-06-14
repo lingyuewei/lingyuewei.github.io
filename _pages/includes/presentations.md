@@ -1,7 +1,7 @@
 # 📢学术会议
 
 ## 学术报告
-- **Overview on prospective and performance-oriented payment systems for health services.** 第18届国际物理与康复医学学会. 悉尼，澳大利亚. (06/2024)
+- **Overview on prospective and performance-oriented payment systems for health services.** 第18届国际物理与康复医学学会. 悉尼, 澳大利亚. (06/2024)
 
 ## 学术海报
 - **Severity indices of diquat poisoning for triage and prognosis in acute diquat poisoning: a multi-center prospective cohort study.** 美国胸科学会年会. 旧金山, 美国. (05/2025)
