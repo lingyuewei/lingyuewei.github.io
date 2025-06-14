@@ -12,7 +12,6 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}
       {% comment %}
-        {% if author.bio %}<p class="author__bio">{{ author.bio | markdownify}}</p>{% endif %}
         First turn the Markdown into HTML, capture it in a variable,
         then strip out the unwanted attributes before you print it.
       {% endcomment %}
