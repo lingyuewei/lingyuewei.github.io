@@ -3,7 +3,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Annals of Emergency Medicine</div><img src='../../images/AEM_DQ-SIDP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Severity indices of diquat poisoning for triage and prognosis in acute diquat poisoning: a multi-center prospective cohort study**](https://doi.org/10.1016/j.annemergmed.2025.02.022) | 急性敌草快中毒分诊与预后评估的严重程度指数：一项多中心前瞻性队列研究 | 2025<br/>
+[**Severity indices of diquat poisoning for triage and prognosis in acute diquat poisoning: a multi-center prospective cohort study**](https://doi.org/10.1016/j.annemergmed.2025.02.022) | [急性敌草快中毒分诊与预后评估的严重程度指数：一项多中心前瞻性队列研究](https://mp.weixin.qq.com/s/MCAnXHPvmi6ER1acYU7GFA) | 2025<br/>
 **Ling Y<sup>#</sup>**, Mao Z<sup>#</sup>, Liu W<sup>#</sup>, Zhou C, Li J, Jiang L, Li M, Zhao H, Nie S, Wu C, Chen J, Bai G, Ren G, Xu J, Chen F, Zhang J, Sun H
 - 本研究开发并验证了敌草快中毒严重程度指数（severity indices for diquat poisoning，SIDPs），旨在帮助急诊医生根据患者自述的临床数据及实验室生物标志物，评估死亡风险，以进行分诊和28天预后判断。
 - 这项多中心队列研究共纳入204名患者。研究将通过Burota算法和逐步Cox回归筛选出的预测因子纳入Cox比例风险模型，从而构建了分别用于分诊（SIDP-T）和预后评估（SIDP-P）的严重程度指数。
