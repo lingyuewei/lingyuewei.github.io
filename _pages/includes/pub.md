@@ -1,5 +1,14 @@
 # 📚出版物
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Renewable Energy</div><img src='../../images/Renewable-Energy_MSTI-GNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**MSTI-GNN: A multi-scale spatiotemporal interactive graph neural network method for precise hydropower unit status prediction**](https://doi.org/10.1016/j.renene.2025.123969) | MSTI-GNN：一种用于精准水电机组状态预测的多尺度时空交互式图神经网络方法 | 2025<br/>
+Yi T, Guo J, Meng Y, **Ling Y**, Ke Y, Guo Z
+- 本研究开发了一种多尺度时空交互式图神经网络（MSTI-GNN）。该网络采用动态自适应图生成模块，融合了长期稳定依赖关系和短期动态特征，超越了传统的静态图构建方法。
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Annals of Emergency Medicine</div><img src='../../images/AEM_DQ-SIDP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
