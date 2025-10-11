@@ -1,15 +1,19 @@
 # 🤝学术服务
 
 ## 期刊审稿
-- Atmospheric Environment
 - Preventive Medicine Reports
-- World Journal of Clinical Cases
-- World Journal of Methodology
+- Frontiers in Medicine
+- Frontiers in Toxicology
+- Frontiers in Pharmacology
 - World Journal of Virology
 - World Journal of Psychiatry
+- World Journal of Methodology
+- World Journal of Clinical Cases
 - World Journal of Gastroenterology
-- World Journal of Gastrointestinal Oncology
 - World Journal of Gastrointestinal Surgery
+- World Journal of Gastrointestinal Oncology
+- Atmospheric Environment
+- The Journal of Supercomputing
 - Artificial Intelligence in Medical Imaging
 - Indonesian Journal of Electrical Engineering and Computer Science
 

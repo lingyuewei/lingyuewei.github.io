@@ -1,5 +1,6 @@
 # 👩‍🏫教学经历
 
+- [**MS&E220：概率分析**](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=20252026&q=MS%26E+220%3A+Probabilistic+Analysis&collapse=){:style="color:#224B8D"} (2025秋季学期)
 - [**MS&E264: 健康工程**](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=20232024&q=MS%26E+264&collapse=){:style="color:#224B8D"} (2024春季学期)
 - [**技术选修：服务管理**](https://scupi.scu.edu.cn/wp-content/uploads/2023/03/Technical-Elective_Service-Management_LiuDi-3.pdf){:style="color:#224B8D"} (2023秋季学期)
 - [**技术选修：工业工程中的数据分析**](https://scupi.scu.edu.cn/wp-content/uploads/2023/03/Technical-Elective_Data-Analytics-in-Industrial-Engineering_LiuYang-3.pdf){:style="color:#224B8D"} (2022 秋季学期 & 2023秋季学期)
