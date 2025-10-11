@@ -12,7 +12,7 @@
   - 本研究旨在评估中国云南省手足口病的长期流行病学趋势，并采用反事实自回归积分移动平均（autoregressive integrated moving average，ARIMA）模型分析肠道病毒71型疫苗接种项目和新冠疫情所产生的影响。
 - Yang Q<sup>#</sup>, Wang L<sup>#</sup>, Zhang X<sup>#</sup>, Lu P<sup>#</sup>, Pan D<sup>#</sup>, Li S<sup>#</sup>, **Ling Y<sup>#</sup>**, Zhi X<sup>#</sup>, Xia L, Zhu Y, Chen Y, Liu C, Jin W, Reinhardt JD, Wang X, Zheng Y. [Impact of an enhanced recovery after surgery program integrating cardiopulmonary rehabilitation on post-operative prognosis of patients treated with CABG: protocol of the ERAS-CaRe randomized controlled trial](https://doi.org/10.1186/s12890-024-03286-1) [整合心肺康复的加速康复外科方案对冠状动脉旁路移植术患者术后预后的影响：ERAS-CaRe随机对照试验方案]. *BMC Pulmonary Medicine*, 2024, 24, 512.
   - 该研究方案设计了一项实用性、随机对照、平行四臂的临床试验，旨在评估在加速康复外科（enhanced recovery after surgery，ERAS）流程中整合心肺康复的模式是否优于仅采用ERAS的方案，并进一步探讨在ERAS流程中不同时机（术前、术后、围手术期）进行心肺康复对冠状动脉旁路移植术后心肺并发症的影响。
-- Guo Z, Jing X, **Ling Y<sup>*</sup>**, Yang Y, Jing N, Yuan R, Liu Y. [Optimized air quality management based on air quality index prediction and air pollutants identification in representative cities in China](https://doi.org/10.1038/s41598-024-68972-w) [基于空气质量指数预测与污染物识别的中国代表性城市空气质量优化管理]. *Scientific Reports*, 2024, 14, 17923.
+- Guo Z, Jing X, **Ling Y**, Yang Y, Jing N, Yuan R, Liu Y. [Optimized air quality management based on air quality index prediction and air pollutants identification in representative cities in China](https://doi.org/10.1038/s41598-024-68972-w) [基于空气质量指数预测与污染物识别的中国代表性城市空气质量优化管理]. *Scientific Reports*, 2024, 14, 17923.
   - 本研究开发了VMD-CSA-CNN-LSTM模型，以预测空气质量指数。该模型融合了变分模态分解（variational mode decomposition，VMD）、变色龙群算法（chameleon swarm algorithm ，CSA）、卷积神经网络 (convolutional neural networks，CNN）和长短期记忆（long short-term memory，LSTM）网络。
   - 本研究使用来自中国九个具有代表性的城市（呼和浩特、银川、兰州、北京、太原、西安、上海、南京、武汉）的数据对所开发的模型进行了验证，并利用随机森林算法识别了每个城市的主要空气污染物。
 - 王萱萱, 励建安, 魏小雷, 刘守国, 李嘉慧, 李阳, **凌阅微**, 路定珍, 陈家应. [以价值为导向的住院康复服务价值调节因子构建研究](http://journal.healthpolicy.cn/html/20240307.htm). *中国卫生政策研究*, 2024, 17(3), 48-55.
@@ -29,8 +29,8 @@
 
 ## 在投论文
 
-- **Ling Y<sup>#</sup>**, Mao Z<sup>#</sup>, Li J<sup>#</sup>, Zhang H, Zhou C, Liu W, Zhou Y, Jiang L, Li M, Zhao H, Nie S, Xu J, Geng P, Xu C, Huang J, Chen F, Zhang J, Sun H. Leveraging plasma concentration levels to optimize extracorporeal treatment in acute diquat poisoning: a multi-center retrospective cohort study [利用血药浓度优化急性敌草快中毒的体外净化治疗：一项多中心回顾性队列研究]. (Under Review at *Clinical Toxicology*)
-- **Ling Y<sup>#</sup>**, Shahmon E<sup>#</sup>, Brandeau ML, Yamin D. Improving imputation of missing data in time series through multi-scale modeling of periodicity: a smartwatch application [通过多尺度周期性建模改进时间序列中的缺失数据插补：以智能手表应用为例]. (Under Review at *Artificial Intelligence in Medicine*)
-- **Ling Y**, Hui J, Fernandez G, Xu Q, Wang H. Content analysis of policies on disaster waste management in Sichuan, China: trends and ways forward [中国四川省灾害废弃物管理政策的内容分析：趋势与展望]. (In Preparation for *Progress in Disaster Science*)
+- **Ling Y<sup>#</sup>**, Mao Z<sup>#</sup>, Li J<sup>#</sup>, Zhang H, Zhou C, Liu W, Zhou Y, Jiang L, Li M, Zhao H, Nie S, Xu J, Geng P, Xu C, Huang J, Chen F, Zhang J, Sun H. Leveraging plasma concentration levels to optimize extracorporeal treatment in acute diquat poisoning: A multi-center retrospective cohort study [利用血药浓度优化急性敌草快中毒的体外净化治疗：一项多中心回顾性队列研究]. (在*Clinical Toxicology*进行同行评审)
+- **Ling Y<sup>#</sup>**, Shahmon E<sup>#</sup>, Brandeau ML, Yamin D. Improving imputation of missing data in time series through multi-scale modeling of periodicity: A smartwatch application [通过多尺度周期性建模改进时间序列中的缺失数据插补：以智能手表应用为例]. (在*Artificial Intelligence in Medicine*进行同行评审)
+- **Ling Y**, Hui J, Fernandez G, Xu Q, Wang H. Content analysis of policies on disaster waste management in Sichuan, China: trends and ways forward [中国四川省灾害废弃物管理政策的内容分析：趋势与展望]. (准备投稿至*Progress in Disaster Science*)
 
 （#：共同一作；*：通讯作者）
