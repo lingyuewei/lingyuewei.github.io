@@ -23,7 +23,7 @@
 - Fernandez G, Asari M, Uy N, Veitata S, Fayazi M, **Ling Y**, Xu Q, Wang H, Ramos LV, and Singh S. [Developing capacity for post-typhoon disaster waste management in Lautoka, Fiji, and Makati, Philippines](https://www.apn-gcr.org/bulletin/article/developing-capacity-for-post-typhoon-disaster-waste-management-in-lautoka-fiji-and-makati-philippines/) [斐济劳托卡与菲律宾马卡蒂的台风灾后废弃物管理能力建设]. *APN Science Bulletin*, 2023, 13(1).
   - 本项目旨在提升斐济劳托卡市与菲律宾马卡蒂市进行有效台风灾后废弃物管理的能力。
   - 在国际学术合作的支持下，本项目开展了培训需求评估，开发并提供了六个专项培训模块，促进了利益相关方研讨会，并指导了灾害废弃物管理应急预案的参与式制定。
-- Xue Q, **Ling Y**, Tian B. [Portfolio Optimization Model for Gold and Bitcoin Based on Weighted Unidirectional Dual-Layer LSTM Model and SMA-Slope Strategy](https://www.hindawi.com/journals/cin/2022/1869897) [基于加权单向双层LSTM模型与SMA-斜率策略的黄金与比特币投资组合优化模型]. *Computational Intelligence and Neuroscience*, 2022, 1869897.
+- Xue Q, **Ling Y**, Tian B. [Portfolio optimization model for gold and bitcoin based on weighted unidirectional dual-layer LSTM model and SMA-slope strategy](https://www.hindawi.com/journals/cin/2022/1869897) [基于加权单向双层LSTM模型与SMA-斜率策略的黄金与比特币投资组合优化模型]. *Computational Intelligence and Neuroscience*, 2022, 1869897.
   - 本研究采用加权单向双层长短期记忆（long short-term memory，LSTM）网络模型预测每日价格，并结合经粒子群算法优化的简单移动平均线-斜率策略。
   - 该策略利用*k*-斜率指标来增强买卖信号，并通过为期五年的交易模拟验证了其有效性。
 
