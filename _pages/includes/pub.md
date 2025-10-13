@@ -33,4 +33,4 @@
 - **Ling Y<sup>#</sup>**, Shahmon E<sup>#</sup>, Brandeau ML, Yamin D. Improving imputation of missing data in time series through multi-scale modeling of periodicity: A smartwatch application [通过多尺度周期性建模改进时间序列中的缺失数据插补：以智能手表应用为例]. (在*Artificial Intelligence in Medicine*进行同行评审)
 - **Ling Y**, Hui J, Fernandez G, Xu Q, Wang H. Content analysis of policies on disaster waste management in Sichuan, China: trends and ways forward [中国四川省灾害废弃物管理政策的内容分析：趋势与展望]. (准备投稿至*Progress in Disaster Science*)
 
-（#：共同一作；*：通讯作者）
+（#：共同作者）
