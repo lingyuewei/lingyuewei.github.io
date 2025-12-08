@@ -4,7 +4,7 @@
   - 这项多中心回顾性队列研究旨在评估敌草快血药浓度在指导急性敌草快中毒患者的个体化体外治疗方案中的临床价值。
   - 本研究纳入了163例急性敌草快中毒患者，并根据在急诊就诊时测得的敌草快血药浓度将患者分为三组：低浓度组（<100 μg/L）、中浓度组（100–1,000 μg/L）和高浓度组（≥1,000 μg/L）。
   - 在低浓度组中，66例患者均存活，无论采用何种体外治疗方案。在中、高浓度组中，5例拒绝体外治疗的患者死亡，而接受体外治疗的92例患者病死率为48.9%。
-  - 在高浓度组中，对于接受血液灌流联合连续静-静脉血液透析滤过（CVVHDF）治疗的患者，生存者从血液灌流结束到开始连续静-静脉血液透析滤过的时间间隔平均短于死亡者（3.7 小时 vs 4.7 小时）。
+  - 在高浓度组中，对于接受血液灌流联合连续静-静脉血液透析滤过（CVVHDF）治疗的患者，生存者从血液灌流结束到开始连续静-静脉血液透析滤过的时间间隔平均短于死亡者（3.7 小时 vs. 4.7 小时）。
 
 -	**GBD 2023 Demographics Collaborators**. [Global age-sex-specific all-cause mortality and life expectancy estimates for 204 countries and territories and 660 subnational locations, 1950–2023: A demographic analysis for the Global Burden of Disease Study 2023](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01330-3/fulltext) [1950年至2023年期间全球204个国家和地区及660个省级地区的年龄-性别特异性全因死亡率和预期寿命估计值：2023年全球疾病负担研究的人口统计分析]. *The Lancet*, 2025.
 
