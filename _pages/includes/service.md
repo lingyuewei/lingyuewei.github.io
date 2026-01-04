@@ -2,6 +2,7 @@
 
 ## 期刊审稿
 - Preventive Medicine Reports
+- Informatics and Health
 - Frontiers in Medicine
 - Frontiers in Toxicology
 - Frontiers in Pharmacology
@@ -12,6 +13,7 @@
 - World Journal of Gastroenterology
 - World Journal of Gastrointestinal Surgery
 - World Journal of Gastrointestinal Oncology
+- Chemosphere
 - Atmospheric Environment
 - The Journal of Supercomputing
 - Artificial Intelligence in Medical Imaging
