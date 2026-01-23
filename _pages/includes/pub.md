@@ -3,7 +3,7 @@
 - 王萱萱, 李嘉慧, **凌阅微**, 孙振宇, 刘逸舒, 邱怀德. [人工智能与运动医学融合的现状、挑战与发展路径探](https://rs.yiigle.com/cmaid/1651566). 中华医学杂志, 2026, 106(1), 13-18.
   - 本文系统梳理了人工智能在运动医学中的应用场景与价值，并分析其在数据、可解释性、隐私公平、监管支付等方面的挑战，提出推动高质量融合发展的对策路径。
 
-- **Ling Y<sup>#</sup>**, Mao Z<sup>#</sup>, Li J<sup>#</sup>, Zhang H, Zhou C, Liu W, Zhou Y, Jiang L, Li M, Zhao H, Nie S, Xu J, Geng P, Xu C, Huang J, Chen F, Zhang J, Sun H. [Leveraging plasma concentrations to optimize extracorporeal treatment in acute diquat poisoning: A multi-center retrospective cohort study](https://doi.org/10.1080/15563650.2025.2591798) [[利用血药浓度优化急性敌草快中毒的体外净化治疗：一项多中心回顾性队列研究](https://mp.weixin.qq.com/s/gS66yYFcwIj_nkaUdg428g)]. *Clinical Toxicology*, 1–12, 2025.
+- **Ling Y<sup>#</sup>**, Mao Z<sup>#</sup>, Li J<sup>#</sup>, Zhang H, Zhou C, Liu W, Zhou Y, Jiang L, Li M, Zhao H, Nie S, Xu J, Geng P, Xu C, Huang J, Chen F, Zhang J, Sun H. [Leveraging plasma concentrations to optimize extracorporeal treatment in acute diquat poisoning: A multi-center retrospective cohort study](https://doi.org/10.1080/15563650.2025.2591798) [[利用血药浓度优化急性敌草快中毒的体外净化治疗：一项多中心回顾性队列研究]](https://mp.weixin.qq.com/s/gS66yYFcwIj_nkaUdg428g). *Clinical Toxicology*, 1–12, 2025.
   - 这项多中心回顾性队列研究旨在评估敌草快血药浓度在指导急性敌草快中毒患者的个体化体外治疗方案（血液灌流和血液灌流联合连续静-静脉血液透析滤过）中的临床价值。
   - 本研究纳入了163例急性敌草快中毒患者，并根据在急诊就诊时测得的敌草快血药浓度将患者分为三组：低浓度组（<100 μg/L）、中浓度组（100–1,000 μg/L）和高浓度组（≥1,000 μg/L）。
 
@@ -19,7 +19,7 @@
 - Yi T, Guo J, Meng Y, **Ling Y**, Ke Y, Guo Z. [MSTI-GNN: A multi-scale spatiotemporal interactive graph neural network method for precise hydropower unit status prediction](https://doi.org/10.1016/j.renene.2025.123969) [一种用于精准水电机组状态预测的多尺度时空交互式图神经网络方法]. *Renewable Energy*, 2025, 256, 123969.
   - 本研究开发了一种多尺度时空交互式图神经网络（MSTI-GNN）。该网络采用动态自适应图生成模块，融合了长期稳定依赖关系和短期动态特征，超越了传统的静态图构建方法。
   
-- **Ling Y<sup>#</sup>**, Mao Z<sup>#</sup>, Liu W<sup>#</sup>, Zhou C, Li J, Jiang L, Li M, Zhao H, Nie S, Wu C, Chen J, Bai G, Ren G, Xu J, Chen F, Zhang J, Sun H. [Severity indices of diquat poisoning for triage and prognosis in acute diquat poisoning: A multi-center prospective cohort study](https://doi.org/10.1016/j.annemergmed.2025.02.022) [[急性敌草快中毒分诊与预后评估的严重程度指数：一项多中心前瞻性队列研究](https://mp.weixin.qq.com/s/MCAnXHPvmi6ER1acYU7GFA)]. *Annals of Emergency Medicine*, 2025, 85(6), 512-520.
+- **Ling Y<sup>#</sup>**, Mao Z<sup>#</sup>, Liu W<sup>#</sup>, Zhou C, Li J, Jiang L, Li M, Zhao H, Nie S, Wu C, Chen J, Bai G, Ren G, Xu J, Chen F, Zhang J, Sun H. [Severity indices of diquat poisoning for triage and prognosis in acute diquat poisoning: A multi-center prospective cohort study](https://doi.org/10.1016/j.annemergmed.2025.02.022) [[急性敌草快中毒分诊与预后评估的严重程度指数：一项多中心前瞻性队列研究]](https://mp.weixin.qq.com/s/MCAnXHPvmi6ER1acYU7GFA). *Annals of Emergency Medicine*, 2025, 85(6), 512-520.
   - 本研究开发并验证了敌草快中毒严重程度指数（severity indices for diquat poisoning，SIDPs），旨在帮助急诊科医生结合患者的临床数据评估其死亡风险，以便进行分诊和预后判断。
   - 这项多中心前瞻性队列研究一共纳入了204名敌草快中毒患者。本研究采用Burota算法和逐步Cox回归进行特征选择，并通过Cox比例风险模型构建了分别用于分诊（severity indices for diquat poisoning for triage，SIDP-T）和预后评估（severity indices for diquat poisoningfor prognosis，SIDP-P）的严重程度指数。
   - 本研究为构建的中毒严重程度指数开发了一个[线上交互平台](https://severityindexofdiquatpoisoning.streamlit.app/)，以便急诊科医生在临床诊疗中直接应用严重程度指数。
