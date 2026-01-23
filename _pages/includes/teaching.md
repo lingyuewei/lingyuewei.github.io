@@ -1,5 +1,6 @@
 # 👩‍🏫教学经历
 
+- [MS&E111DS/211DS: 优化导论：数据科学](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=MS%26E+111DS%3A+Introduction+to+Optimization%3A+Data+Science&collapse=) (2026冬季学期)
 - [MS&E220：概率分析](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=20252026&q=MS%26E+220%3A+Probabilistic+Analysis&collapse=){:style="color:#224B8D"} (2025秋季学期)
 - [MS&E264: 健康工程](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=20232024&q=MS%26E+264&collapse=){:style="color:#224B8D"} (2024春季学期)
 - [技术选修：服务管理](https://scupi.scu.edu.cn/wp-content/uploads/2023/03/Technical-Elective_Service-Management_LiuDi-3.pdf){:style="color:#224B8D"} (2023秋季学期)
