@@ -7,6 +7,7 @@
 ## 期刊审稿
 - Preventive Medicine Reports
 - Informatics and Health
+- The Gerontologist
 - Frontiers in Medicine
 - Frontiers in Toxicology
 - Frontiers in Pharmacology
