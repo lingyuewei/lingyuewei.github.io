@@ -6,6 +6,7 @@
 
 ## 期刊审稿
 - Preventive Medicine Reports
+- BMC Emergency Medicine
 - Informatics and Health
 - The Gerontologist
 - Frontiers in Medicine
