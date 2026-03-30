@@ -1,12 +1,13 @@
 # 🤝学术服务
 
 ## 学术任职
-- 运筹学与管理科学学会健康应用学会 学生联络员 (01/2026-至今)
+- 运筹学与管理科学学会-健康应用学会 学生联络员 (01/2026-至今)
 - 斯坦福大学女性数学指导 导师 (09/2023-至今)
 
 ## 期刊审稿
 - Preventive Medicine Reports
 - BMC Emergency Medicine
+- BMC Public Health
 - Informatics and Health
 - The Gerontologist
 - Frontiers in Medicine

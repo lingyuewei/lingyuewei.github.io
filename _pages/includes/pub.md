@@ -1,5 +1,10 @@
 # 📚出版物
 
+- He M, Liu K, Balakrishnan N, Ling Y. Likelihood Inference for Semiparametric Mixture Cure Generalized-Gamma Frailty Model. (已被*Communications in Statistics - Simulation and Computation*接收)
+
+- Qiu J, Zheng H, Gu J, Wu L, Gong Z, **Ling Y**, Ran J, He M, Sun H. [Associations of urban heat island and its metabolomic profiles with all-cause and cause-specific mortality in middle-aged and older adults](https://doi.org/10.1016/j.ecoenv.2026.120062) [城市热岛及其代谢组学特征与中老年人全因死亡率和特定原因死亡率的关联性]. *Ecotoxicology and Environmental Safety*, 2026, 314, 120062.
+  - 这项前瞻性队列研究旨在调查城市热岛暴露与城市居民死亡结果之间的关联，并确定介导这些关系的代谢途径。
+
 - 王萱萱, 李嘉慧, **凌阅微**, 孙振宇, 刘逸舒, 邱怀德. [人工智能与运动医学融合的现状、挑战与发展路径探](https://rs.yiigle.com/cmaid/1651566). 中华医学杂志, 2026, 106(1), 13-18.
   - 本文系统梳理了人工智能在运动医学中的应用场景与价值，并分析其在数据、可解释性、隐私公平、监管支付等方面的挑战，提出推动高质量融合发展的对策路径。
 
@@ -47,9 +52,5 @@
 - Xue Q, **Ling Y**, Tian B. [Portfolio optimization model for gold and bitcoin based on weighted unidirectional dual-layer LSTM model and SMA-slope strategy](https://www.hindawi.com/journals/cin/2022/1869897) [基于加权单向双层LSTM模型与SMA-斜率策略的黄金与比特币投资组合优化模型]. *Computational Intelligence and Neuroscience*, 2022, 1869897.
   - 本研究采用加权单向双层长短期记忆（long short-term memory，LSTM）网络模型预测每日价格，并结合经粒子群算法优化的简单移动平均线-斜率策略。
   - 该策略利用*k*-斜率指标来增强买卖信号，并通过为期五年的交易模拟验证了其有效性。
-
-## 在投论文
-
-- **Ling Y<sup>#</sup>**, Shahmon E<sup>#</sup>, Brandeau ML, Yamin D. Improving imputation of missing data in time series through multi-scale modeling of periodicity: A smartwatch application [通过多尺度周期性建模改进时间序列中的缺失数据插补：以智能手表应用为例]. (在*Artificial Intelligence in Medicine*进行同行评审)
 
 （#：共同作者）
