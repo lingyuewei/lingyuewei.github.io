@@ -1,6 +1,6 @@
 # 📚出版物
 
-- He M, Liu K, Balakrishnan N, **Ling Y**. Likelihood Inference for Semiparametric Mixture Cure Generalized-Gamma Frailty Model. (已被*Communications in Statistics - Simulation and Computation*接收)
+- He M, Liu K, Balakrishnan N, **Ling Y**. Likelihood Inference for Semiparametric Mixture Cure Generalized-Gamma Frailty Model [半参数混合治愈广义 Gamma脆弱性模型的似然推断]. (已被*Communications in Statistics - Simulation and Computation*接收)
 
 - Qiu J, Zheng H, Gu J, Wu L, Gong Z, **Ling Y**, Ran J, He M, Sun H. [Associations of urban heat island and its metabolomic profiles with all-cause and cause-specific mortality in middle-aged and older adults](https://doi.org/10.1016/j.ecoenv.2026.120062) [城市热岛及其代谢组学特征与中老年人全因死亡率和特定原因死亡率的关联性]. *Ecotoxicology and Environmental Safety*, 2026, 314, 120062.
   - 这项前瞻性队列研究旨在调查城市热岛暴露与城市居民死亡结果之间的关联，并确定介导这些关系的代谢途径。
