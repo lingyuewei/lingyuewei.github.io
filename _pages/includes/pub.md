@@ -1,6 +1,6 @@
 # 📚出版物
 
-- He M, Liu K, Balakrishnan N, **Ling Y**. [Likelihood Inference for Semiparametric Mixture Cure Generalized-Gamma Frailty Model](https://doi.org/10.1080/03610918.2026.2651419) [半参数混合治愈广义 Gamma脆弱性模型的似然推断]. *Communications in Statistics - Simulation and Computation*, 2026, 1–16.
+- He M, Liu K, Balakrishnan N, **Ling Y**. [Likelihood Inference for Semiparametric Mixture Cure Generalized-Gamma Frailty Model](https://doi.org/10.1080/03610918.2026.2651419) [半参数混合治愈广义Gamma脆弱性模型的似然推断]. *Communications in Statistics - Simulation and Computation*, 2026, 1–16.
   - 本文提出了一种半参数混合治愈比例风险脆弱性模型，用于处理部分个体可能被治愈，同时又存在未观测异质性或组内相关性的生存数据。
 
 - Qiu J, Zheng H, Gu J, Wu L, Gong Z, **Ling Y**, Ran J, He M, Sun H. [Associations of urban heat island and its metabolomic profiles with all-cause and cause-specific mortality in middle-aged and older adults](https://doi.org/10.1016/j.ecoenv.2026.120062) [城市热岛及其代谢组学特征与中老年人全因死亡率和特定原因死亡率的关联性]. *Ecotoxicology and Environmental Safety*, 2026, 314, 120062.
