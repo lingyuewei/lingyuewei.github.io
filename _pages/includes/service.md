@@ -5,11 +5,12 @@
 - 斯坦福大学女性数学指导 导师 (09/2023-至今)
 
 ## 期刊审稿
-- Preventive Medicine Reports
 - BMC Emergency Medicine
 - BMC Public Health
-- Informatics and Health
 - The Gerontologist
+- Informatics and Health
+- Preventive Medicine Reports
+- European Journal of Medical Research
 - Frontiers in Medicine
 - Frontiers in Toxicology
 - Frontiers in Pharmacology
