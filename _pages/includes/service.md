@@ -10,6 +10,7 @@
 - The Gerontologist
 - Informatics and Health
 - Preventive Medicine Reports
+- Nursing Research and Practice
 - European Journal of Medical Research
 - Frontiers in Medicine
 - Frontiers in Toxicology
