@@ -1,5 +1,8 @@
 # 📚出版物
 
+- Qin H<sup>#</sup>, **Ling Y<sup>#</sup>**, Shui T<sup>#</sup>, Jing X, Shi A, Zha Y, Fu Y, Zheng F, Yan X. [Global, regional, and national burden of substance use disorder in 204 countries and territories, 1990–2021: A systematic analysis for the Global Burden of Disease Study 2021](https://doi.org/10.1080/07853890.2026.2679301) [1990年至2021年204个国家和地区物质使用障碍的全球、区域和国家疾病负担：基于2021年全球疾病负担研究的系统分析]. （已被*Annals of Medicine*接收）
+  - 基于2021年全球疾病负担研究的数据，本研究评估了1990年至2021年全球、区域和国家层面的疾病负担，涵盖物质使用障碍、酒精使用障碍、药物使用障碍及其亚型，包括阿片类、可卡因、苯丙胺类和大麻使用障碍。
+
 - He M, Liu K, Balakrishnan N, **Ling Y**. [Likelihood Inference for Semiparametric Mixture Cure Generalized-Gamma Frailty Model](https://doi.org/10.1080/03610918.2026.2651419) [半参数混合治愈广义Gamma脆弱性模型的似然推断]. *Communications in Statistics - Simulation and Computation*, 2026, 1–16.
   - 本文提出了一种半参数混合治愈比例风险脆弱性模型，用于处理部分个体可能被治愈，同时又存在未观测异质性或组内相关性的生存数据。
 
