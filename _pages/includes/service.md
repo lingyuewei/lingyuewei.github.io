@@ -24,6 +24,7 @@
 - World Journal of Gastrointestinal Surgery
 - World Journal of Gastrointestinal Oncology
 - Chemosphere
+- Scientific Reports
 - Atmospheric Environment
 - The Journal of Supercomputing
 - Artificial Intelligence in Medical Imaging
