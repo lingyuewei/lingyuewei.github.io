@@ -1,6 +1,7 @@
 # 📢学术会议
 
 ## 口头报告
+- **利用血药浓度优化急性敌草快中毒的体外净化治疗：一项多中心回顾性队列研究.** 第四届全国中毒控制学术交流会议. 昆明. (05/2025)
 - **A generative agent framework to simulate behaviorally realistic cancer screening trajectories [用于模拟行为真实的癌症筛查轨迹的生成式智能体框架].** 运筹学与管理学研究协会医疗健康大会. 罗利, 美国. (07/2026)
 - **Evaluating housing-based interventions for people experiencing homelessness and opioid use disorder in California: A microsimulation model [基于微观模拟模型评估加利福尼亚州无家可归且患有阿片类药物使用障碍人群的住房干预措施].** 运筹学与管理学研究协会医疗健康大会. 罗利, 美国. (07/2026)
 - **Evaluating housing-based interventions for people experiencing homelessness and opioid use disorder in California: A microsimulation model [基于微观模拟模型评估加利福尼亚州无家可归且患有阿片类药物使用障碍人群的住房干预措施].** 落基山中毒与药物安全中心. 丹佛, 美国. (05/2026)
@@ -17,6 +18,8 @@
 - **Leveraging plasma concentration levels to optimize extracorporeal treatment in acute diquat poisoning: A multi-center retrospective cohort study [利用血药浓度优化急性敌草快中毒的体外净化治疗：一项多中心回顾性队列研究].** 美国胸科学会年会. 旧金山, 美国. (05/2025)
 
 ## 参会学习
+- 第29次全国急诊医学学术年会. 重庆. (06/2026)
+- 第一届江浙两省中毒学年会暨江苏省医学会第五次中毒学学术会议. 扬州. (06/2026)
 - 斯坦福癌症研究所研究会议. 斯坦福, 美国. (03/2026)
 - 加州大学旧金山分校乳腺肿瘤项目年度科学研讨会. 旧金山, 美国. (03/2026)
 - 健康计量经济学研讨会. 安娜堡, 美国. (11/2025)
