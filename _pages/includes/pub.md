@@ -2,9 +2,9 @@
 
 - Jing X, **Ling Y**, Jing R, Guo F, Yin F, Huang D, Zhang L, Yan X, Shui T. [Non-linear effects and lag patterns of eco-environmental factors on scrub typhus: A spatiotemporal analysis in Yunnan, China, 2015–2022](https://doi.org/10.1186/s13071-026-07547-2) [生态环境因素对恙虫病的非线性效应及滞后模式：基于中国云南省2015—2022年的时空分析]. *Parasites & Vectors*, 2026.
 
-- Guo Z, Jing X, Yi T, **Ling Y**, Li Q, Ma J. [A CEEMDAN-Transformer-BiLSTM framework for multi-Scale urban water demand forecasting](https://doi.org/10.3390/su18126057) [一种用于多尺度城市用水需求预测的CEEMDAN-Transformer-BiLSTM框架]. *Sustainability*, 2026, 18(12), 6057.
+- Guo Z, Jing X, Yi T, **Ling Y**, Li Q, Ma J. [A CEEMDAN-Transformer-BiLSTM framework for multi-scale urban water demand forecasting](https://doi.org/10.3390/su18126057) [一种用于多尺度城市用水需求预测的CEEMDAN-Transformer-BiLSTM框架]. *Sustainability*, 2026, 18(12), 6057.
 
-- He M, Liu K, Balakrishnan N, **Ling Y**. [Likelihood Inference for Semiparametric Mixture Cure Generalized-Gamma Frailty Model](https://doi.org/10.1080/03610918.2026.2651419) [半参数混合治愈广义Gamma脆弱性模型的似然推断]. *Communications in Statistics - Simulation and Computation*, 2026, 1–16.
+- He M, Liu K, Balakrishnan N, **Ling Y**. [Likelihood inference for semiparametric mixture cure generalized-gamma frailty model](https://doi.org/10.1080/03610918.2026.2651419) [半参数混合治愈广义Gamma脆弱性模型的似然推断]. *Communications in Statistics - Simulation and Computation*, 2026, 1–16.
   - 本文提出了一种半参数混合治愈比例风险脆弱性模型，用于处理部分个体可能被治愈，同时又存在未观测异质性或组内相关性的生存数据。
 
 - Qiu J, Zheng H, Gu J, Wu L, Gong Z, **Ling Y**, Ran J, He M, Sun H. [Associations of urban heat island and its metabolomic profiles with all-cause and cause-specific mortality in middle-aged and older adults](https://doi.org/10.1016/j.ecoenv.2026.120062) [城市热岛及其代谢组学特征与中老年人全因死亡率和特定原因死亡率的关联性]. *Ecotoxicology and Environmental Safety*, 2026, 314, 120062.
