@@ -4,7 +4,7 @@
 
 - Guo Z, Jing X, Yi T, **Ling Y**, Li Q, Ma J. [A CEEMDAN-Transformer-BiLSTM framework for multi-scale urban water demand forecasting](https://doi.org/10.3390/su18126057) [一种用于多尺度城市用水需求预测的CEEMDAN-Transformer-BiLSTM框架]. *Sustainability*, 2026, 18(12), 6057.
 
-- He M, Liu K, Balakrishnan N, **Ling Y**. [Likelihood inference for semiparametric mixture cure generalized-gamma frailty model](https://doi.org/10.1080/03610918.2026.2651419) [半参数混合治愈广义Gamma脆弱性模型的似然推断]. *Communications in Statistics - Simulation and Computation*, 2026, 1–16.
+- He M, Liu K, Balakrishnan N, **Ling Y**. [Likelihood inference for semiparametric mixture cure generalized-Gamma frailty model](https://doi.org/10.1080/03610918.2026.2651419) [半参数混合治愈广义Gamma脆弱性模型的似然推断]. *Communications in Statistics - Simulation and Computation*, 2026, 1–16.
   - 本文提出了一种半参数混合治愈比例风险脆弱性模型，用于处理部分个体可能被治愈，同时又存在未观测异质性或组内相关性的生存数据。
 
 - Qiu J, Zheng H, Gu J, Wu L, Gong Z, **Ling Y**, Ran J, He M, Sun H. [Associations of urban heat island and its metabolomic profiles with all-cause and cause-specific mortality in middle-aged and older adults](https://doi.org/10.1016/j.ecoenv.2026.120062) [城市热岛及其代谢组学特征与中老年人全因死亡率和特定原因死亡率的关联性]. *Ecotoxicology and Environmental Safety*, 2026, 314, 120062.
@@ -13,7 +13,7 @@
 - 王萱萱, 李嘉慧, **凌阅微**, 孙振宇, 刘逸舒, 邱怀德. [人工智能与运动医学融合的现状、挑战与发展路径探](https://rs.yiigle.com/cmaid/1651566). 中华医学杂志, 2026, 106(1), 13-18.
   - 本文系统梳理了人工智能在运动医学中的应用场景与价值，并分析其在数据、可解释性、隐私公平、监管支付等方面的挑战，提出推动高质量融合发展的对策路径。
 
-- **Ling Y<sup>#</sup>**, Mao Z<sup>#</sup>, Li J<sup>#</sup>, Zhang H, Zhou C, Liu W, Zhou Y, Jiang L, Li M, Zhao H, Nie S, Xu J, Geng P, Xu C, Huang J, Chen F, Zhang J, Sun H. [Leveraging plasma concentrations to optimize extracorporeal treatment in acute diquat poisoning: A multi-center retrospective cohort study](https://doi.org/10.1080/15563650.2025.2591798) [[利用血药浓度优化急性敌草快中毒的体外净化治疗：一项多中心回顾性队列研究]](https://mp.weixin.qq.com/s/gS66yYFcwIj_nkaUdg428g). *Clinical Toxicology*, 1–12, 2025.
+- **Ling Y<sup>#</sup>**, Mao Z<sup>#</sup>, Li J<sup>#</sup>, Zhang H, Zhou C, Liu W, Zhou Y, Jiang L, Li M, Zhao H, Nie S, Xu J, Geng P, Xu C, Huang J, Chen F, Zhang J, Sun H. [Leveraging plasma concentrations to optimize extracorporeal treatment in acute diquat poisoning: A multi-center retrospective cohort study](https://doi.org/10.1080/15563650.2025.2591798) [[利用血药浓度优化急性敌草快中毒的体外净化治疗：一项多中心回顾性队列研究]](https://mp.weixin.qq.com/s/gS66yYFcwIj_nkaUdg428g). *Clinical Toxicology*, 2026, 64(3), 167-178.
   - 这项多中心回顾性队列研究旨在评估敌草快血药浓度在指导急性敌草快中毒患者的个体化体外治疗方案（血液灌流和血液灌流联合连续静-静脉血液透析滤过）中的临床价值。
   - 本研究纳入了163例急性敌草快中毒患者，并根据在急诊就诊时测得的敌草快血药浓度将患者分为三组：低浓度组（<100 μg/L）、中浓度组（100–1,000 μg/L）和高浓度组（≥1,000 μg/L）。
 
