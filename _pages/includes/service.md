@@ -8,6 +8,7 @@
 - npj Digital Medicine
 - BMC Public Health
 - BMC Emergency Medicine
+- BMC Medical Informatics and Decision Making
 - The Gerontologist
 - Informatics and Health
 - Preventive Medicine Reports
