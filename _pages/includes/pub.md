@@ -4,7 +4,7 @@
 
 ## 期刊论文
 
-- **Ling Y<sup>#,*</sup>**, Shahmoon E<sup>#</sup>, Brandeau ML, Yamin D. [Missing data imputation for wearable time series](https://doi.org/10.1038/s41598-026-71659-z) [可穿戴设备时间序列数据的缺失值插补]. *Scientific Reports*, 2026.
+- <strong>Ling Y<sup>#,&#42;</sup></strong>, Shahmoon E<sup>#</sup>, Brandeau ML, Yamin D. [Missing data imputation for wearable time series](https://doi.org/10.1038/s41598-026-71659-z) [可穿戴设备时间序列数据的缺失值插补]. *Scientific Reports*, 2026.
   - 本研究旨在开发一种适用于可穿戴设备时间序列的缺失值插补方法，同时考虑生理观测数据与缺失模式中的周期性结构。
   - 本研究构建了一个周期性多尺度建模框架，通过识别相关周期，并整合多个时间尺度的信息对缺失值进行估计。
   - 该方法在智能手表心率数据中提高了缺失值插补性能，并为具有结构化缺失模式的健康时间序列数据提供了具有推广性的分析框架。
@@ -57,7 +57,7 @@
   - 该研究方案旨在评估在加速康复外科流程中整合心肺康复是否能够改善冠状动脉旁路移植术后的临床结局，并进一步比较不同康复介入时机的潜在影响。
   - 研究设计为一项实用性、随机、平行四臂临床试验，比较单纯ERAS与术前、术后及围手术期不同阶段整合心肺康复的干预策略。
 
-- Guo Z, Jing X, **Ling Y<sup>*</sup>**, Yang Y, Jing N, Yuan R, Liu Y. [Optimized air quality management based on air quality index prediction and air pollutants identification in representative cities in China](https://doi.org/10.1038/s41598-024-68972-w) [基于空气质量指数预测与污染物识别的中国代表性城市空气质量优化管理]. *Scientific Reports*, 2024, 14, 17923.
+- Guo Z, Jing X, <strong>Ling Y<sup>&#42;</sup></strong>, Yang Y, Jing N, Yuan R, Liu Y. [Optimized air quality management based on air quality index prediction and air pollutants identification in representative cities in China](https://doi.org/10.1038/s41598-024-68972-w) [基于空气质量指数预测与污染物识别的中国代表性城市空气质量优化管理]. *Scientific Reports*, 2024, 14, 17923.
   - 本研究旨在通过结合空气质量指数预测与主要污染物识别，为城市空气质量管理提供更有针对性的定量依据。
   - 本研究构建了VMD-CSA-CNN-LSTM空气质量指数预测模型，并基于中国九个代表性城市的数据，利用随机森林算法识别各城市的主要空气污染物。
   - 该框架将预测建模与污染物识别相结合，为不同城市制定更具针对性的空气质量管理策略提供了方法学支持。
