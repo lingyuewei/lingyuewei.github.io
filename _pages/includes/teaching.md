@@ -1,4 +1,4 @@
-# 👩‍🏫教学经历
+# 👩‍🏫 教学经历
 
 - [MS&E111X/211X: 优化导论：数据科学（加速版）](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=MS%26E+111X%3A+Introduction+to+Optimization+%28Accelerated%29&collapse=) (2026春季学期)
 - [MS&E111DS/211DS: 优化导论：数据科学](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=MS%26E+111DS%3A+Introduction+to+Optimization%3A+Data+Science&collapse=) (2026冬季学期)
