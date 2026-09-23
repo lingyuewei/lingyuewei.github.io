@@ -79,9 +79,9 @@
 
 ## 书籍章节
 
-- **Ling Y**. [Evaluation and promotion of ecological conservation in Saihanba](https://doi.org/10.1201/9781003332664-93) [塞罕坝生态保护的评价与促进]. *Advances in Energy Materials and Environment Engineering*. CRC Press, 2022, 658–664.
-  - 本章节旨在评价塞罕坝生态保护状况，并探讨进一步促进长期生态保护与生态修复的路径。
-  - 本章节结合生态保护评价与管理策略，为区域可持续生态环境管理提供了参考。
+- **Ling Y**. [Evaluation and promotion of ecological conservation in Saihanba](https://doi.org/10.1201/9781003332664-93) [塞罕坝生态保护的评估与改善]. *Advances in Energy Materials and Environment Engineering*. CRC Press, 2022, 658–664.
+  - 本章节旨在评估塞罕坝生态保护状况，并探讨进一步促进长期生态保护与生态修复的路径。
+  - 本章节结合生态保护评估与管理策略，为区域可持续生态环境管理提供了参考。
 
 ## 技术报告
 
