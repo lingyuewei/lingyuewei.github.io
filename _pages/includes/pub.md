@@ -9,7 +9,7 @@
   - 本研究构建了一个周期性多尺度建模框架，通过识别相关周期，并整合多个时间尺度的信息对缺失值进行估计。
   - 该方法在智能手表心率数据中提高了缺失值插补性能，并为具有结构化缺失模式的健康时间序列数据提供了具有推广性的分析框架。
 
-- Jing X, **Ling Y**, Jing R, Guo F, Yin F, Huang D, Zhang L, Yan X, Shui T. [Non-linear effects and lag patterns of eco-environmental factors on scrub typhus: A spatiotemporal analysis in Yunnan, China, 2015–2022](https://doi.org/10.1186/s13071-026-07547-2) [生态环境因素对恙虫病的非线性效应及滞后模式：基于中国云南省2015–2022年的时空分析]. *Parasites & Vectors*, 2026.
+- Jing X, **Ling Y**, Jing R, Guo F, Yin F, Huang D, Zhang L, Yan X, Shui T. [Non-linear effects and lag patterns of eco-environmental factors on scrub typhus: A spatiotemporal analysis in Yunnan, China, 2015–2022](https://doi.org/10.1186/s13071-026-07547-2) [生态环境因素对恙虫病的非线性效应及滞后模式：基于中国云南省2015–2022年的时空分析]. *Parasites & Vectors*, 2026, 19, 404.
   - 本研究旨在分析云南省生态环境因素与恙虫病发病之间的非线性关系、滞后效应及其时空异质性。
 
 - Guo Z, Jing X, Yi T, **Ling Y**, Li Q, Ma J. [A CEEMDAN-Transformer-BiLSTM framework for multi-scale urban water demand forecasting](https://doi.org/10.3390/su18126057) [一种用于多尺度城市用水需求预测的CEEMDAN-Transformer-BiLSTM框架]. *Sustainability*, 2026, 18(12), 6057.
