@@ -19,6 +19,7 @@
 - Nursing Research and Practice
 - European Journal of Medical Research
 - Frontiers in Medicine
+- Frontiers in Pediatrics
 - Frontiers in Toxicology
 - Frontiers in Pharmacology
 - World Journal of Virology
