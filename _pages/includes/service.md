@@ -2,10 +2,11 @@
 
 ## 学术任职
 
-- 《OR/MS Tomorrow》编委 运筹学与管理科学学会（INFORMS） (05/2026-至今)
-- 运筹学与管理科学学会（INFORMS）健康应用学会（HAS）学生联络员 (01/2026-至今)
-- 斯坦福大学女性数学指导项目（SWIMM）导师 (09/2023-08/2026)
-- 斯坦福大学管理科学与工程系硕士项目招生评审 (2024 & 2025)
+- 斯坦福大学医学院流行病学与人口健康系 学生大使 (09/2026-至今)
+- 运筹学与管理科学学会(INFORMS)《OR/MS Tomorrow》编委 (05/2026-至今)
+- 运筹学与管理科学学会(INFORMS)健康应用学会(HAS) 学生联络员 (01/2026-至今)
+- 斯坦福大学女性数学指导项目(SWIMM) 导师 (09/2023-08/2026)
+- 斯坦福大学管理科学与工程系硕士项目 招生评审 (2024 & 2025)
 
 ## 期刊审稿
 
@@ -37,12 +38,17 @@
 - Artificial Intelligence in Medical Imaging
 - Indonesian Journal of Electrical Engineering and Computer Science
 
+
+
 ## 会议论文审稿
 
 - 2025 International Conference on Machine Learning (ICML)
 - 2024 Conference on Neural Information Processing Systems (NeurIPS)
 
+
+
 ## 会议摘要审稿
 
 - 2026 International Society for Pharmacoeconomics and Outcomes Research (ISPOR)
 - 2026 Society for Medical Decision Making (SMDM) Annual Meeting
+
