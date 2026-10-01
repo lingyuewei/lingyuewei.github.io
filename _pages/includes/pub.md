@@ -72,6 +72,11 @@
 - Xue Q, **Ling Y**, Tian B. [Portfolio optimization model for gold and bitcoin based on weighted unidirectional dual-layer LSTM model and SMA-slope strategy](https://doi.org/10.1155/2022/1869897) [基于加权单向双层LSTM模型与SMA-斜率策略的黄金与比特币投资组合优化模型]. *Computational Intelligence and Neuroscience*, 2022, 1869897.
   - 本研究旨在构建一种将深度学习价格预测与技术交易信号相结合的黄金和比特币投资组合优化方法。
 
+## 研讨会论文
+
+- Blanchet J, Cheng J, **Ling Y**, Liu H, and Liu Y. [Duality and policy evaluation in distributionally robust Bayesian diffusion control [分布鲁棒贝叶斯扩散控制中的对偶性与策略评估]](https://arxiv.org/abs/2506.19294). *NeurIPS 2026 Workshop on Machine Learning for Operations Research (MLxOR)*, 2026.
+  - 本研究提出一种分布鲁棒贝叶斯控制框架，结合强对偶理论、随机多层蒙特卡洛和结构化策略学习，以提高先验设定偏误下的决策稳健性。
+
 ## 会议论文
 
 - Liang Y, **Ling Y**, Li Y, Liu L, and Xu N. [Post-disaster air purification system based on bionic lung design](https://doi.org/10.1117/12.2639442) [基于仿生肺设计的灾后空气净化系统]. *Proceedings of the Second International Conference on Automation Control, Algorithm, and Intelligent Bionics (ACAIB 2022)*, SPIE, Qingdao, China, 2022, 12253, 122531R.
