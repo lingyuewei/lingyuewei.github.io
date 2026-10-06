@@ -20,6 +20,7 @@
 - Preventive Medicine Reports
 - Nursing Research and Practice
 - European Journal of Medical Research
+- Journal of Multidisciplinary Healthcare
 - Frontiers in Medicine
 - Frontiers in Pediatrics
 - Frontiers in Toxicology
