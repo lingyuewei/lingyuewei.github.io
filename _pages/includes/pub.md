@@ -2,6 +2,13 @@
 
 <sup>#</sup> 同等贡献；<sup>*</sup> 通讯作者
 
+## 预印本
+
+- <strong>Ling Y<sup>#,&#42;</sup></strong>, Tsung S<sup>#</sup>, Alarid-Escudero F, Goldhaber-Fiebert JD, Brandeau ML, Reitsma MB. [Cost-effectiveness of expanding housing access for people experiencing homelessness and opioid use disorder in California](https://doi.org/10.64898/2026.10.15.26365505) [提高加利福尼亚州无家可归且患有阿片类物质使用障碍人群住房可及性的成本效果分析]. *medRxiv*, 2026. (预印本)
+  - 本研究构建了个体水平的微观模拟模型，以加利福尼亚州18,928名患有阿片类物质使用障碍的无家可归者为模拟人群，评估通过“住房优先”（Housing First）模式提高住房可及性的健康与经济影响。该模式不以接受阿片类物质使用障碍治疗或停止使用成瘾物质为获得住房的前提。
+  - 模型结果显示，提高住房可及性可使平均死亡年龄增加0.34岁，并使模拟队列中的药物过量死亡减少39例；增量成本效果比为每增加一个质量调整生命年（QALY）31,083美元，远低于常用的支付意愿阈值。
+  - 相关报道：[COIOS](https://www.coios.me/housing-for-homeless-californians-with-opioid-use-disorder/)。
+
 ## 期刊论文
 
 - <strong>Ling Y<sup>#,&#42;</sup></strong>, Shahmoon E<sup>#</sup>, Brandeau ML, Yamin D. [Missing data imputation for wearable time series](https://doi.org/10.1038/s41598-026-71659-z) [可穿戴设备时间序列数据的缺失值插补]. *Scientific Reports*, 2026.
