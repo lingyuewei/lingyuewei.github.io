@@ -14,8 +14,8 @@
 - npj Digital Medicine
 - BMC Public Health
 - BMC Anesthesiology
-- BMC Emergency Medicine
 - BMC Infectious Diseases
+- BMC Emergency Medicine
 - BMC Medical Informatics and Decision Making
 - The Gerontologist
 - Informatics and Health
