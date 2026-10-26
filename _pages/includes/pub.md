@@ -11,6 +11,9 @@
 
 ## 期刊论文
 
+- Liu C, Yi T, Jing X<sup>&#42;</sup>, <strong>Ling Y<sup>&#42;</sup></strong>. [An MMD-weighted ensemble for multi-source cross-domain intrusion detection in heterogeneous IoT systems](https://doi.org/10.1038/s41598-026-75843-z) [面向异构物联网系统多源跨域入侵检测的MMD加权集成方法]. *Scientific Reports*, 2026.
+  - 本研究旨在构建一种MMD加权集成框架，通过整合多个源域的信息，提高异构物联网系统中跨域入侵检测的性能。
+
 - <strong>Ling Y<sup>#,&#42;</sup></strong>, Shahmoon E<sup>#</sup>, Brandeau ML, Yamin D. [Missing data imputation for wearable time series](https://doi.org/10.1038/s41598-026-71659-z) [可穿戴设备时间序列数据的缺失值插补]. *Scientific Reports*, 2026.
   - 本研究旨在开发一种适用于可穿戴设备时间序列的缺失值插补方法，同时考虑生理观测数据与缺失模式中的周期性结构。
   - 本研究构建了一个周期性多尺度建模框架，通过识别相关周期，并整合多个时间尺度的信息对缺失值进行估计。
